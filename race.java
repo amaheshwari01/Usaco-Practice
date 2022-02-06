@@ -40,6 +40,7 @@ public class race {
 			else if (speed >= thresh) {
 	
 			// if you can add two of the distance
+		//test git
 			if(((distrem)>=(speed+1)*2)) {
 	  
 					dist =(speed+1)*2;
